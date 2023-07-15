@@ -17,7 +17,7 @@ Our image registration method tackles the challenges posed by distortions and tr
 To install and run this project, you will need Python 3.6 or later. Clone the repository and install the necessary requirements:
 
 ```bash
-git clone https://github.com/SahandHamzehei/3D-Biological-Biomedical-Image-Registration
+git clone https://github.com/NabaviLab/Biological-Biomedical-Image-Registration
 cd 3D-Biological-Biomedical-Image-Registration
 ```
 And to. install libraries, please follow the below command in the first cell of the Google Colab/Jupyter Notebook:
