@@ -37,6 +37,20 @@ Navigate to the repository folder after installation.
 cd 3D-Biological-Biomedical-Image-Registration
 ```
 
+## Citation
+
+If you use this algorithm in your research, please cite the following paper:
+
+```bash
+@inproceedings{hamzehei20233d,
+title={3D Biological/Biomedical Image Registration with enhanced Feature Extraction and Outlier Detection},
+author={Hamzehei, Sahand and Bai, Jun and Raimondi, Gianna and Tripp, Rebecca and Ostroff, Linnaea and Nabavi, Sheida},
+booktitle={Proceedings of the 14th ACM International Conference on Bioinformatics, Computational Biology, and Health Informatics},
+pages={1--10},
+year={2023}
+}
+
+
 ## Datasets
 You can use any 3D biological/biomedical images for registration. However, our model performs best with 3D multiplex microscopy and 3D MRI images. For your convenience, we provide the "CUMC12" dataset, which is synthesised based on known transformations. This dataset is ideal for testing the algorithm. The "CUMC12" dataset we used in our paper is publicly available:
 
