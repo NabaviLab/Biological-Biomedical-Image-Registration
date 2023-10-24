@@ -49,7 +49,7 @@ booktitle={Proceedings of the 14th ACM International Conference on Bioinformatic
 pages={1--10},
 year={2023}
 }
-
+```
 
 ## Datasets
 You can use any 3D biological/biomedical images for registration. However, our model performs best with 3D multiplex microscopy and 3D MRI images. For your convenience, we provide the "CUMC12" dataset, which is synthesised based on known transformations. This dataset is ideal for testing the algorithm. The "CUMC12" dataset we used in our paper is publicly available:
